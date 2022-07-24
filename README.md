@@ -1,2 +1,2 @@
 # BackGS
-A Reinforcment learning model created in [NeuralGS](https://github.com/SimonG5/NeuralGS) along side [BackPolicy](https://github.com/SimonG5/BackPolicy) to achieve super human level in backgammon
+BackGS combines [BackPolicy](https://github.com/SimonG5/BackPolicy) and [BackRL](https://github.com/SimonG5/BackRL) to perform a monte carlo tree search and achieve super human strength in backgammon.
